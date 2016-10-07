@@ -22,3 +22,12 @@ _testmain.go
 *.exe
 *.test
 *.prof
+
+
+## MacOS
+.DS_Store
+*/.DS_Store
+*/*/.DS_Store
+*/*/*/.DS_Store
+*/*/*/*/.DS_Store
+*/*/*/*/*/.DS_Store
